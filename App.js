@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, Dimensions } from 'react-native';
-import { Video } from 'expo';
+import { Video } from 'expo-av';
 import { MaterialIcons, Octicons } from '@expo/vector-icons';
 
 export default class App extends React.Component {
